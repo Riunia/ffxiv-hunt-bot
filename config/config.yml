@@ -1,1 +1,16 @@
+# Bot client ID
+client_id: 595138909206216704
 
+# Bot token
+token: 'NTk1MTM4OTA5MjA2MjE2NzA0.XSEpsA.NByCkMGM_uUpbr8xHkogt99vM0o'
+
+# World ID
+world_id: 15
+
+# Channels where S ranks will be reported
+s_rank_channel_ids:
+  - 49335092836827136
+
+# Channels where A ranks will be reported
+a_rank_channel_ids:
+  - 49335092836827136
