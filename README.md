@@ -4,11 +4,11 @@ Discord bot for announcing hunts as they are reported on [XIV-Hunt](https://xivh
 
 ## Dependencies
 
-ruby-dev
-gcc
-libffi-dev
-make
-g++
+* ruby-dev
+* gcc
+* libffi-dev
+* make
+* g++
 
 ## Installation
 
