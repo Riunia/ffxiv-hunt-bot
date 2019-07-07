@@ -3,7 +3,7 @@
 Discord bot for announcing hunts as they are reported on [XIV-Hunt](https://xivhunt.net/). Powered by [discordrb](https://github.com/meew0/discordrb).
 
 ## Dependencies
-
+* ruby (version 2.5.1)
 * ruby-dev
 * gcc
 * libffi-dev
